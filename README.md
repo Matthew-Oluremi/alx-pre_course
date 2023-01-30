@@ -1,2 +1,4 @@
 My first readme
-git project
+Updating my first readme file from github
+
+
